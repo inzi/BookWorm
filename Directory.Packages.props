@@ -8,7 +8,7 @@
     <GrpcVersion>2.71.0</GrpcVersion>
     <MassTransitVersion>8.4.1</MassTransitVersion>
     <MsExtVersion>9.5.0</MsExtVersion>
-    <MsTestVersion>1.7.0</MsTestVersion>
+    <MsTestVersion>1.7.1</MsTestVersion>
     <ToolKitVersion>9.5.0</ToolKitVersion>
   </PropertyGroup>
   <ItemGroup Label="Aspire Packages">
