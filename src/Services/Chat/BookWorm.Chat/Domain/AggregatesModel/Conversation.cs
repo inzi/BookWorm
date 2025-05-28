@@ -14,7 +14,6 @@ public sealed class Conversation() : AuditableEntity, IAggregateRoot
             ? name
             : throw new ConversationDomainException("Name cannot be null or empty.");
         UserId = userId;
-        _messages = [];
     }
 
     public string? Name { get; private set; }
